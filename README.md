@@ -32,7 +32,7 @@ Read up on current real-world (not academic!) applications of Artificial Intelli
 
 # Submission
 
-To submit your assignment, commit your code/files/docs back into the repository. If you are using Google Slides or other online presentation tool, please ensure your presentation is open to the public and add your link below:
+To submit your assignment, have your team member with repo access commit your team's code/files/docs back into the repository. If you are using Google Slides or other online presentation tool, please ensure your presentation is open to the public and add your link below:
 
 My Presentation link: ???
 
